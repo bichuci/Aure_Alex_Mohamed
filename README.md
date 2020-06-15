@@ -1,5 +1,5 @@
 # Aure_Alex_Mohamed
-Reprendre un projet non connu :
+<u> Reprendre un projet non connu :<u>
 
 git clone URL DOSSIER ( si pas de nom de dossier il le crée )
 
@@ -8,7 +8,7 @@ cd DOSSIER
 git init
 
 
-Push un dossier :
+<u>Push un dossier :<u>
 
 git add .
 
